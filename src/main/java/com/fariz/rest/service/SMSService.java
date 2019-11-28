@@ -20,8 +20,8 @@ public class SMSService {
     Logger logger = LoggerFactory.getLogger(MethodHandles.lookup().lookupClass());
 
     // Change SID, TOKEN and SENDER NUMBER with your own number at your Twilio Account
-    public static final String ACCOUNT_SID = "AC00fec4baac1f8df557bcbd185d68ed52";
-    public static final String AUTH_TOKEN = "4f9085e861268f48e1f5329021cbf4fb";
+    public static final String ACCOUNT_SID = "##########";
+    public static final String AUTH_TOKEN = "##########";
     public static final String SENDER = "+12512728408";
     public static final String DESTINATION = "+628111719692";
 
