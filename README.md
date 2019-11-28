@@ -24,7 +24,7 @@ Clone this repository, Install the dependencies and run from your PC with IDE li
 * [Visual Studio Code]
 * [Eclipse]
 
-Or you can use the artifact (jar files) and running in the terminal 
+If you use IDE to run the app you have to make a change in the SMSService.java code because Twilio Credentials cannot be publish in public (you can email me if you want to try), or you can use the artifact (jar files) and running in the terminal  (better ways to do it with this)
 ```sh
 $ cd inside-directory
 ```
