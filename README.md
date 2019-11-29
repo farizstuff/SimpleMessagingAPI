@@ -48,6 +48,26 @@ if everything goes clean and soft open your browser (Recommeded with Chrome / Fi
 http://localhost:8080/
 ```
 
+if you want to make a REST request from curl or from postman make sure use method POST and Content-type app/json.
+the request json will look like this.
+- Send SMS REST
+```sh
+{
+  "action" : "SMS",
+  "subAction : "sendSMS",
+  "message" : "text message you want to send"
+}
+```
+
+- History SMS REST
+```sh
+{
+  "action" : "SMS",
+  "subAction : "getHistorySMS",
+  "limit" : number
+}
+```
+
 if theres an error or something you wanna ask feel free to catching up with me at farizardiansyah60@gmail.com
 
 
