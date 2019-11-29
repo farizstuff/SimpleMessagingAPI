@@ -17,7 +17,7 @@ For complete uses check out the pom.xml
 
 ### Installation
 
-Before start make sure you have installed Java Version 8 (Java 1.8) in your PC
+Before start make sure you have installed Java Version 8 (Java 1.8) in your PC.
 Clone this repository, Install the dependencies and run from your PC with IDE like :
 
 * [Intellij] Recomended
@@ -48,7 +48,7 @@ if everything goes clean and soft open your browser (Recommeded with Chrome / Fi
 http://localhost:8080/
 ```
 
-if you want to make a REST request from curl or from postman make sure use method POST and Content-type app/json.
+if you want to make a REST request from curl or from postman make sure use method POST and Content-type app/json,
 the request json will look like this.
 - Send SMS REST
 ```sh
