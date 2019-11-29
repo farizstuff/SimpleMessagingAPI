@@ -22,7 +22,7 @@ public class SMSService {
     // Change SID, TOKEN and SENDER NUMBER with your own number at your Twilio Account
     public static final String ACCOUNT_SID = "##########";
     public static final String AUTH_TOKEN = "##########";
-    public static final String SENDER = "+12512728408";
+    public static final String SENDER = "##########";
     public static final String DESTINATION = "+628111719692";
 
     //method for sending sms
